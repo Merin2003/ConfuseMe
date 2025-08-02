@@ -11,6 +11,7 @@ ConfuseMe
 ### Team Members
 - Team Lead: Merin Mathew - Rajiv Gandhi Institute of Technology,Kottayam
 - Member 2: Shreya Claris Justin - Rajiv  Gandhi Institute of Technology,Kottayam
+  Hosted Project Link:https://github.com/Merin2003/ConfuseMe.git
 
 
 ### Project Description
