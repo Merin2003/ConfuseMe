@@ -74,7 +74,7 @@ Not applicable
 ### Project Demo
 # Video
 
-🎥 [Click here to watch the demo video](demo.mp4)
+https://github.com/merin2003/ConfuseMe/raw/main/video.mp4
 
 
 # Additional Demos
