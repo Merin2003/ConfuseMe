@@ -74,6 +74,7 @@ Not applicable
 ### Project Demo
 # Video
 
+[▶️ Watch Demo Video](demo.mp4)
 
 # Additional Demos
 
