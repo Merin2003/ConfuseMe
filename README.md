@@ -69,7 +69,8 @@ For Hardware:
 Not applicable – no hardware used.
 
 # Build Photos
-Not applicable 
+
+![WhatsApp Image 2025-08-02 at 08 00 59_47f2f346](https://github.com/user-attachments/assets/6012e260-efe7-47f9-855b-fde6a0f9e054)
 
 ### Project Demo
 # Video
